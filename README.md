@@ -1,4 +1,4 @@
-# simple-register-and-login
+# Python simple-register-and-login automation test
 
 This is a simple automation test for register and login in [automationpractice](http://automationpractice.com/)  fake online shop performed in python. 
 
